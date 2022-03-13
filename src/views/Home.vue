@@ -1,5 +1,6 @@
 <template>
-  <div class="text-2xl text-blue-600">welcome home.</div>
+  <div class="text-2xl text-blue-600"> this is main </div>
+  <div></div>
 </template>
 
 <script>
